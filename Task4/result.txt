@@ -1,0 +1,10 @@
+Adnan works in IT and earns 850
+Sara works in HR and earns 920
+Omar works in Finance and earns 780
+Lina works in Marketing and earns 950
+Yousef works in Sales and earns 1100
+Huda works in Support and earns 880
+Khaled works in Development and earns 1020
+Rami works in IT and earns 970
+Aya works in Design and earns 890
+Noor works in Accounting and earns 930

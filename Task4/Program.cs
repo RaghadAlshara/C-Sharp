@@ -6,7 +6,11 @@ class Program
     static void Main()
     {
         string inputFile = "C:\\Users\\Raghad\\source\\repos\\C#Tasks\\Task4\\Employees.txt";
-        string outputFile = "result.txt";
+
+        string outputFile = Path.Combine(
+            Path.GetDirectoryName(inputFile),
+            "result.txt"
+        );
 
         if (!File.Exists(inputFile))
         {
