@@ -142,18 +142,18 @@ class Program
     {
         // Create Objects
         BankAccount account1 = new BankAccount(
-            "ACC001",
-            "Adnan Saleh",
+            "001",
+            "Raghad Alshare",
             1000,
             "Savings",
             "Amman Branch"
         );
 
         BankAccount account2 = new BankAccount(
-            "ACC002",
-            "Sara Ahmad",
-            -200,   // Invalid balance (handled by constructor)
-            "Current",
+            "002",
+            "Sara Ali",
+            -200,   // Invalid balance (handled by constructor and set to 0)
+            "Normal",
             "Irbid Branch"
         );
 
